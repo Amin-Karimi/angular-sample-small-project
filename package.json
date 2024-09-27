@@ -1,6 +1,12 @@
 {
   "name": "angular-sample-small-project",
-  "version": "0.0.0",
+  "version": "1.0.0",
+  "license": "MIT",
+  "author": "Amin Karimi <amin.karimi.sisakht@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Amin-Karimi/angular-sample-small-project.git"
+  },
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
