@@ -1,4 +1,5 @@
 # AngularSampleSmallProject
+This repository provides a basic Angular project setup. It is open-source and can be used as a template or starting point for building Angular applications.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.1.0.
 
